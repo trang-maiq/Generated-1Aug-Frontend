@@ -1,0 +1,35 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterSideBySideOnCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "font": "",
+  "theme": "neo-brutal",
+  "title": "Yay: Elevate Your Productivity Journey",
+  "subtitle": "Innovative Insights and Ideas to Boost Your Work-Life Harmony"
+}
